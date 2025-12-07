@@ -1,0 +1,7 @@
+{
+  "name": "Weather Today",
+  "description": "An AI-powered weather dashboard that uses Google Search Grounding to provide real-time weather data, forecasts, and witty AI commentary.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
